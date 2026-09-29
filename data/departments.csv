@@ -1,0 +1,13 @@
+Department_ID,Department_Name,Specialty_Group
+1,Emergency,Emergency
+2,Cardiology,Cardiovascular
+3,Oncology,Cancer
+4,Neurology,Neurological
+5,Orthopedics,Musculoskeletal
+6,Pediatrics,Pediatric
+7,General Medicine,Internal Medicine
+8,ICU,Critical Care
+9,Radiology,Imaging
+10,Surgery,Surgical
+11,Obstetrics,Women's Health
+12,Dermatology,Dermatology

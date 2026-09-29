@@ -1,0 +1,46 @@
+Medication_ID,Medication_Name,Medication_Class,Generic_Name,Unit_Cost
+4001,Metformin,Respiratory,Metformin,2.19
+4002,Lisinopril,Other,Lisinopril,11.63
+4003,Atorvastatin,Antibiotic,Atorvastatin,14.27
+4004,Amlodipine,Other,Amlodipine,11.62
+4005,Losartan,Antibiotic,Losartan,5.32
+4006,Levothyroxine,Diabetes,Levothyroxine,6.97
+4007,Albuterol,Mental Health,Albuterol,5.02
+4008,Gabapentin,Respiratory,Gabapentin,6.21
+4009,Omeprazole,Respiratory,Omeprazole,3.72
+4010,Aspirin,Other,Aspirin,7.58
+4011,Insulin Glargine,Gastrointestinal,Insulin Glargine,3.07
+4012,Amoxicillin,Diabetes,Amoxicillin,7.17
+4013,Azithromycin,Other,Azithromycin,3.63
+4014,Prednisone,Respiratory,Prednisone,9.34
+4015,Furosemide,Cardiovascular,Furosemide,5.25
+4016,Metoprolol,Pain Relief,Metoprolol,9.86
+4017,Sertraline,Gastrointestinal,Sertraline,16.49
+4018,Ibuprofen,Pain Relief,Ibuprofen,22.95
+4019,Acetaminophen,Pain Relief,Acetaminophen,1.58
+4020,Warfarin,Antibiotic,Warfarin,4.75
+4021,Apixaban,Other,Apixaban,6.71
+4022,Clopidogrel,Respiratory,Clopidogrel,11.01
+4023,Doxycycline,Other,Doxycycline,2.79
+4024,Ciprofloxacin,Gastrointestinal,Ciprofloxacin,4.31
+4025,Pantoprazole,Diabetes,Pantoprazole,8.89
+4026,Hydrochlorothiazide,Respiratory,Hydrochlorothiazide,8.63
+4027,Rosuvastatin,Diabetes,Rosuvastatin,10.44
+4028,Montelukast,Other,Montelukast,10.9
+4029,Escitalopram,Respiratory,Escitalopram,10.18
+4030,Tramadol,Gastrointestinal,Tramadol,9.26
+4031,Ondansetron,Other,Ondansetron,8.47
+4032,Morphine,Gastrointestinal,Morphine,12.58
+4033,Heparin,Antibiotic,Heparin,1.9
+4034,Vancomycin,Gastrointestinal,Vancomycin,22.28
+4035,Ceftriaxone,Cardiovascular,Ceftriaxone,1.95
+4036,Sitagliptin,Pain Relief,Sitagliptin,4.05
+4037,Empagliflozin,Pain Relief,Empagliflozin,7.05
+4038,Insulin Lispro,Respiratory,Insulin Lispro,12.64
+4039,Meloxicam,Antibiotic,Meloxicam,1.17
+4040,Fluoxetine,Pain Relief,Fluoxetine,8.02
+4041,Buspirone,Respiratory,Buspirone,13.67
+4042,Prednisolone,Gastrointestinal,Prednisolone,15.59
+4043,Famotidine,Mental Health,Famotidine,5.19
+4044,Clindamycin,Respiratory,Clindamycin,6.72
+4045,Other,Diabetes,Other,5.47

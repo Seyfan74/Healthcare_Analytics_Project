@@ -1,0 +1,15 @@
+CSV_File,Rows,Columns
+patients.csv,2515,11
+doctors.csv,80,6
+departments.csv,12,3
+diagnoses.csv,35,4
+medications.csv,45,5
+procedures.csv,40,4
+lab_tests.csv,26,5
+admissions.csv,6500,12
+diagnosis_records.csv,5250,6
+medication_records.csv,11000,8
+procedure_records.csv,8500,6
+lab_results.csv,18000,7
+insurance_claims.csv,6200,9
+payments.csv,5800,7

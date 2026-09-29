@@ -1,0 +1,81 @@
+Doctor_ID,Doctor_Name,Department_ID,Specialty,Years_Experience,Employment_Type
+2001,Dr. Daniel Wilson,11,Orthopedics,15,Full-Time
+2002,Dr. Robert Robinson,6,Oncology,28,Full-Time
+2003,Dr. Linda Walker,3,Surgery,11,Full-Time
+2004,Dr. James Miller,9,Orthopedics,2,Contract
+2005,Dr. David Robinson,4,Neurology,9,Part-Time
+2006,Dr. Daniel Moore,3,Obstetrics,23,Part-Time
+2007,Dr. Nancy Moore,11,Orthopedics,33,Full-Time
+2008,Dr. Michael Taylor,3,Surgery,19,Full-Time
+2009,Dr. Sarah Smith,2,Radiology,13,Contract
+2010,Dr. Barbara Williams,12,Internal Medicine,14,Full-Time
+2011,Dr. James Brown,9,Emergency Medicine,32,Part-Time
+2012,Dr. Jennifer Jones,8,Oncology,22,Full-Time
+2013,Dr. David Robinson,5,Radiology,20,Contract
+2014,Dr. Matthew Moore,9,Neurology,33,Part-Time
+2015,Dr. David Garcia,2,Neurology,5,Contract
+2016,Dr. Charles Jackson,6,Surgery,20,Full-Time
+2017,Dr. Daniel Moore,7,Pediatrics,14,Full-Time
+2018,Dr. Elizabeth Smith,6,Oncology,27,Full-Time
+2019,Dr. Richard Garcia,3,Oncology,26,Full-Time
+2020,Dr. Daniel King,10,Radiology,32,Part-Time
+2021,Dr. Karen Thomas,10,Orthopedics,30,Full-Time
+2022,Dr. Thomas Clark,10,Internal Medicine,27,Full-Time
+2023,Dr. Lisa Davis,9,Orthopedics,26,Full-Time
+2024,Dr. Susan Jones,12,Pediatrics,18,Part-Time
+2025,Dr. Nancy Johnson,8,Critical Care,23,Full-Time
+2026,Dr. Nancy Taylor,8,Critical Care,24,Full-Time
+2027,Dr. John Young,8,Cardiology,4,Full-Time
+2028,Dr. Jessica Walker,9,Obstetrics,3,Full-Time
+2029,Dr. Jessica Wilson,1,Radiology,30,Contract
+2030,Dr. Richard Anderson,8,Surgery,16,Full-Time
+2031,Dr. Thomas Walker,2,Dermatology,7,Full-Time
+2032,Dr. Thomas Anderson,4,Dermatology,22,Full-Time
+2033,Dr. Linda Miller,1,Dermatology,31,Full-Time
+2034,Dr. Susan Young,12,Pediatrics,13,Full-Time
+2035,Dr. Sarah Walker,6,Internal Medicine,29,Full-Time
+2036,Dr. Charles Clark,10,Oncology,28,Full-Time
+2037,Dr. Susan Anderson,1,Neurology,19,Full-Time
+2038,Dr. James Wilson,12,Pediatrics,23,Part-Time
+2039,Dr. Sarah Moore,5,Internal Medicine,8,Part-Time
+2040,Dr. Thomas Allen,9,Pediatrics,25,Contract
+2041,Dr. Nancy White,1,Orthopedics,35,Contract
+2042,Dr. Lisa Taylor,9,Dermatology,26,Full-Time
+2043,Dr. Matthew Wilson,4,Cardiology,3,Full-Time
+2044,Dr. Michael Young,3,Dermatology,2,Part-Time
+2045,Dr. James Wilson,8,Internal Medicine,5,Full-Time
+2046,Dr. Elizabeth White,6,Orthopedics,20,Full-Time
+2047,Dr. Daniel Clark,7,Dermatology,12,Full-Time
+2048,Dr. Susan Taylor,9,Radiology,16,Full-Time
+2049,Dr. Lisa Brown,5,Obstetrics,29,Full-Time
+2050,Dr. Charles Moore,2,Neurology,35,Full-Time
+2051,Dr. James Walker,3,Surgery,21,Full-Time
+2052,Dr. Charles Jackson,3,Dermatology,21,Full-Time
+2053,Dr. Karen Jackson,4,Cardiology,28,Full-Time
+2054,Dr. David Allen,10,Internal Medicine,6,Contract
+2055,Dr. Robert King,7,Internal Medicine,20,Full-Time
+2056,Dr. Nancy Anderson,12,Emergency Medicine,13,Full-Time
+2057,Dr. Sarah Miller,10,Obstetrics,11,Full-Time
+2058,Dr. James Williams,6,Orthopedics,24,Full-Time
+2059,Dr. James Harris,3,Oncology,19,Full-Time
+2060,Dr. Joseph Jones,7,Radiology,23,Full-Time
+2061,Dr. Nancy White,4,Radiology,31,Part-Time
+2062,Dr. Barbara Lewis,10,Internal Medicine,3,Part-Time
+2063,Dr. Susan Williams,11,Dermatology,34,Full-Time
+2064,Dr. Charles Smith,11,Radiology,29,Full-Time
+2065,Dr. Daniel Smith,8,Dermatology,3,Full-Time
+2066,Dr. Elizabeth Williams,7,Cardiology,15,Full-Time
+2067,Dr. Richard Garcia,7,Obstetrics,7,Full-Time
+2068,Dr. David Garcia,9,Surgery,3,Contract
+2069,Dr. John White,8,Critical Care,16,Full-Time
+2070,Dr. William Davis,12,Surgery,34,Part-Time
+2071,Dr. John Jones,1,Surgery,20,Full-Time
+2072,Dr. Daniel Martin,7,Surgery,33,Part-Time
+2073,Dr. Robert Lewis,3,Emergency Medicine,14,Full-Time
+2074,Dr. Robert Walker,12,Oncology,35,Part-Time
+2075,Dr. Karen Robinson,4,Critical Care,11,Part-Time
+2076,Dr. Mary Miller,6,Obstetrics,20,Full-Time
+2077,Dr. James Walker,5,Critical Care,30,Full-Time
+2078,Dr. Sarah Anderson,8,Surgery,28,Contract
+2079,Dr. Jennifer Miller,2,Critical Care,15,Part-Time
+2080,Dr. Barbara Clark,5,Obstetrics,13,Full-Time

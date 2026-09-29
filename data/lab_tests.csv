@@ -1,0 +1,27 @@
+Lab_Test_ID,Lab_Test_Name,Category,Reference_Low,Reference_High
+6001,Glucose,Vital Sign,53.4,242.5
+6002,HbA1c,Hormone,45.7,246.9
+6003,Hemoglobin,Chemistry,67.7,90.5
+6004,WBC,Other,49.7,109.2
+6005,Platelets,Chemistry,50.7,177.5
+6006,Creatinine,Vital Sign,17.7,242.9
+6007,BUN,Blood,33.3,249.1
+6008,Sodium,Cardiac,27.6,180.8
+6009,Potassium,Chemistry,0.9,117.8
+6010,Cholesterol,Vital Sign,25.1,116.1
+6011,LDL,Vital Sign,38.9,212.2
+6012,HDL,Vital Sign,48.0,184.7
+6013,Triglycerides,Cardiac,74.8,177.8
+6014,Troponin,Chemistry,19.1,164.5
+6015,TSH,Other,12.2,206.0
+6016,ALT,Vital Sign,69.6,227.3
+6017,AST,Cardiac,75.3,138.5
+6018,CRP,Blood,39.0,125.3
+6019,Blood Pressure Systolic,Hormone,9.2,197.2
+6020,Blood Pressure Diastolic,Chemistry,38.8,236.4
+6021,Oxygen Saturation,Cardiac,8.8,145.7
+6022,Vitamin D,Hormone,70.7,133.6
+6023,Calcium,Hormone,56.7,126.2
+6024,Albumin,Cardiac,19.3,130.7
+6025,Bilirubin,Other,70.9,111.6
+6026,Other,Other,51.0,185.5

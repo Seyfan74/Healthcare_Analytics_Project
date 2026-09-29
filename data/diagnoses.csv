@@ -1,0 +1,36 @@
+Diagnosis_ID,Diagnosis_Name,ICD10_Code,Diagnosis_Category
+3001,Hypertension,DX100,Other
+3002,Type 2 Diabetes,DX101,Injury
+3003,Pneumonia,DX102,Other
+3004,Asthma,DX103,Infectious
+3005,Coronary Artery Disease,DX104,Infectious
+3006,Heart Failure,DX105,Mental Health
+3007,COPD,DX106,Injury
+3008,Migraine,DX107,Injury
+3009,Osteoarthritis,DX108,Other
+3010,Fracture,DX109,Infectious
+3011,Depression,DX110,Chronic
+3012,Anxiety,DX111,Mental Health
+3013,Stroke,DX112,Chronic
+3014,Chronic Kidney Disease,DX113,Infectious
+3015,Cancer,DX114,Injury
+3016,Appendicitis,DX115,Injury
+3017,Sepsis,DX116,Chronic
+3018,Influenza,DX117,Acute
+3019,COVID-19,DX118,Infectious
+3020,Urinary Tract Infection,DX119,Injury
+3021,Gastritis,DX120,Other
+3022,Anemia,DX121,Acute
+3023,Hyperlipidemia,DX122,Injury
+3024,Obesity,DX123,Other
+3025,Back Pain,DX124,Injury
+3026,Dermatitis,DX125,Acute
+3027,Thyroid Disorder,DX126,Chronic
+3028,Pregnancy Complication,DX127,Infectious
+3029,Gallstones,DX128,Acute
+3030,Kidney Stones,DX129,Acute
+3031,GERD,DX130,Injury
+3032,Arthritis,DX131,Other
+3033,Lung Infection,DX132,Acute
+3034,Arrhythmia,DX133,Infectious
+3035,Other,DX134,Chronic

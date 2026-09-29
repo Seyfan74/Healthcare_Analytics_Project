@@ -1,0 +1,41 @@
+Procedure_ID,Procedure_Name,Procedure_Category,Base_Cost
+5001,Blood Test,Surgical,397.76
+5002,X-Ray,Surgical,582.58
+5003,CT Scan,Preventive,1074.45
+5004,MRI,Preventive,122.4
+5005,Ultrasound,Preventive,557.12
+5006,ECG,Preventive,1191.81
+5007,Echocardiogram,Preventive,325.54
+5008,Colonoscopy,Surgical,204.13
+5009,Endoscopy,Diagnostic,469.35
+5010,Appendectomy,Diagnostic,518.77
+5011,Hip Replacement,Diagnostic,263.24
+5012,Knee Replacement,Surgical,2912.97
+5013,CABG,Therapeutic,371.31
+5014,Angioplasty,Surgical,216.39
+5015,Biopsy,Diagnostic,505.28
+5016,Chemotherapy,Diagnostic,1125.84
+5017,Radiation Therapy,Preventive,552.21
+5018,Dialysis,Preventive,803.1
+5019,Physical Therapy,Preventive,271.18
+5020,Wound Care,Surgical,1790.32
+5021,Vaccination,Therapeutic,853.52
+5022,C-Section,Therapeutic,1259.11
+5023,Normal Delivery,Preventive,729.33
+5024,Laparoscopic Surgery,Therapeutic,1053.54
+5025,Fracture Repair,Diagnostic,270.85
+5026,Cataract Surgery,Diagnostic,367.55
+5027,Dental Procedure,Preventive,1599.08
+5028,Skin Procedure,Preventive,1896.55
+5029,Pulmonary Function Test,Preventive,217.53
+5030,Other,Therapeutic,665.0
+5031,Procedure 0,Surgical,385.77
+5032,Procedure 1,Preventive,311.8
+5033,Procedure 2,Therapeutic,683.94
+5034,Procedure 3,Preventive,1356.65
+5035,Procedure 4,Surgical,781.59
+5036,Procedure 5,Preventive,421.74
+5037,Procedure 6,Diagnostic,822.12
+5038,Procedure 7,Preventive,408.31
+5039,Procedure 8,Diagnostic,757.25
+5040,Procedure 9,Diagnostic,1664.32
